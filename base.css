@@ -1,0 +1,5 @@
+/*=======Esse vai add à toda a pág, mesmo que não tenha nada======*/
+
+*{cursor:url(cursor.cur ou link),default;
+/*o cursor pode ser definido cada um, mudando o default pelo correspondente, por exemplo: help, pointer, resize*/
+/*=======Fim======*/
