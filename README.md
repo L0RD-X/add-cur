@@ -8,4 +8,6 @@ class ".nomedela",
 id "#nomedele", 
 fora isso coloca o elemento.
 
-Bem simples
+Bem simpl...
+
+Na teoria ok, mas nâo funcionou,
