@@ -10,4 +10,4 @@ fora isso coloca o elemento.
 
 Bem simpl...
 
-Na teoria ok, mas nâo funcionou,
+Na teoria ok, mas nâo funcionou
